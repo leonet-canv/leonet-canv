@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**leonet-canv/leonet-canv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil saya!
 
-Here are some ideas to get you started:
+## Tentang Saya
+Saya adalah pengembang yang antusias dalam belajar teknologi baru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Keterampilan
+- Development
+- Problem Solving
+- Learning & Growth
+
+## Mari Terhubung
+Hubungi saya jika ingin berkolaborasi atau diskusi!
